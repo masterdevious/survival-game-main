@@ -1,0 +1,161 @@
+fileFormatVersion: 2
+guid: 5803652cbc9a2524781f2941098fca2d
+timeCreated: 1450620145
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: Game Boy Advance - Pokemon FireRed LeafGreen - Hero Heroine_7
+    21300002: Game Boy Advance - Pokemon FireRed LeafGreen - Hero Heroine_8
+    21300004: Game Boy Advance - Pokemon FireRed LeafGreen - Hero Heroine_9
+    21300006: Game Boy Advance - Pokemon FireRed LeafGreen - Hero Heroine_21
+    21300008: Game Boy Advance - Pokemon FireRed LeafGreen - Hero Heroine_22
+    21300010: Game Boy Advance - Pokemon FireRed LeafGreen - Hero Heroine_23
+    21300012: Game Boy Advance - Pokemon FireRed LeafGreen - Hero Heroine_28
+    21300014: Game Boy Advance - Pokemon FireRed LeafGreen - Hero Heroine_29
+    21300016: Game Boy Advance - Pokemon FireRed LeafGreen - Hero Heroine_30
+    21300018: Game Boy Advance - Pokemon FireRed LeafGreen - Hero Heroine_0
+    21300020: Game Boy Advance - Pokemon FireRed LeafGreen - Hero Heroine_1
+    21300022: Game Boy Advance - Pokemon FireRed LeafGreen - Hero Heroine_2
+    21300024: Game Boy Advance - Pokemon FireRed LeafGreen - Hero Heroine_3
+    21300026: Game Boy Advance - Pokemon FireRed LeafGreen - Hero Heroine_4
+    21300028: Game Boy Advance - Pokemon FireRed LeafGreen - Hero Heroine_5
+    21300030: Game Boy Advance - Pokemon FireRed LeafGreen - Hero Heroine_6
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: .25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 8
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: -1
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: .5, y: .5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: Game Boy Advance - Pokemon FireRed LeafGreen - Hero Heroine_0
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 70
+        width: 16
+        height: 20
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Game Boy Advance - Pokemon FireRed LeafGreen - Hero Heroine_1
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 70
+        width: 16
+        height: 20
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Game Boy Advance - Pokemon FireRed LeafGreen - Hero Heroine_2
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 70
+        width: 16
+        height: 20
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Game Boy Advance - Pokemon FireRed LeafGreen - Hero Heroine_3
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 38
+        width: 16
+        height: 20
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Game Boy Advance - Pokemon FireRed LeafGreen - Hero Heroine_4
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 38
+        width: 16
+        height: 20
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Game Boy Advance - Pokemon FireRed LeafGreen - Hero Heroine_5
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 38
+        width: 16
+        height: 20
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Game Boy Advance - Pokemon FireRed LeafGreen - Hero Heroine_6
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 6
+        width: 16
+        height: 20
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Game Boy Advance - Pokemon FireRed LeafGreen - Hero Heroine_7
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 6
+        width: 16
+        height: 20
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Game Boy Advance - Pokemon FireRed LeafGreen - Hero Heroine_8
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 6
+        width: 16
+        height: 20
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
